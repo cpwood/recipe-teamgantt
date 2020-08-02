@@ -1,0 +1,13 @@
+{
+  "id": "teamgantt",
+  "name": "TeamGantt",
+  "version": "1.0.0",
+  "description": "TeamGantt",
+  "main": "index.js",
+  "author": "Chris Wood <chris.wood@hey.com>",
+  "license": "MIT",
+  "repository": "https://github.com/cpwood/recipe-teamgantt",
+  "config": {
+    "serviceURL": "https://app.teamgantt.com/"
+  }
+}
